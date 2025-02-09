@@ -1,4 +1,6 @@
 asgiref==3.8.1
 Django==4.2.19
+dnspython==2.7.0
+pymongo==4.11
 sqlparse==0.5.3
 typing_extensions==4.12.2
